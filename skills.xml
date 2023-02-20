@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SKILLS>
+	<HARDSKILLS>
+		<HS>Creativity</HS>
+		<HS>Sociability</HS>
+		<HS>Ability to correctly formulate questions</HS>
+		<HS>Ability to prioritize</HS>
+		<HS>Ability to speak in simple language</HS>
+		<HS>Flexibility</HS>
+		<HS>Discipline</HS>
+		<HS>Curiosity and passion</HS>
+	</HARDSKILLS>
+	<SOFTSKILLS>
+		<SS>Understanding the goals and areas of testing</SS>
+		<SS>Knowledge of test analysis and test design techniques</SS>
+		<SS>Maintaining test documentation</SS>
+		<SS>Working with bug tracking systems</SS>
+		<SS>Working with version control systems</SS>
+		<SS>Basic knowledge of client-server architecture</SS>
+		<SS>Basic knowledge of programming languages</SS>
+		<SS>Working with API and traffic sniffers</SS>
+		<SS>Working with DevTool</SS>
+		<SS>Technical English</SS>
+	</SOFTSKILLS>
+</SKILLS>
