@@ -1,1 +1,6 @@
-test
+<?xml version="1.0"?>
+<INFO>
+	<NAME>Anatolii Vitalievich Brusov</NAME>
+	<PETS>one</PETS>
+	<SALARY>3000</SALARY>	 
+</INFO>
